@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 :root {
-  --bg: #5f4b8b;
-  --fg: #ffffff;
-  --secondaryFg: #b3b3b3;
-  --containerBg: #272727;
+  --bg: #F2A272;
+  --fg: #FDFDFD;
+  --secondaryFg: #BEBEC1;
+  --containerBg: #1D1F28;
   --searchBg: var(--containerBg);
   --scrollbarColor: #3f3f3f;
   --fontFamily: 'Roboto Mono', monospace;
 }
 
 body {
-  background-color: var(--bg);
+/*   background-color: var(--bg); */
+  background: url(https://i.imgur.com/16ARtWb.jpeg)
   margin: 0px;
 }
 
