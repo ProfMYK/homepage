@@ -11,8 +11,8 @@
 }
 
 body {
-/*   background-color: var(--bg); */
-  background-img: url(https://i.imgur.com/16ARtWb.jpeg)
+  background-color: var(--bg);
+/*   background-img: url(https://i.imgur.com/16ARtWb.jpeg) */
   margin: 0px;
 }
 
